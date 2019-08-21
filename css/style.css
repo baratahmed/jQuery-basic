@@ -1,0 +1,16 @@
+.my-style{
+    border: 1px solid red;
+    height: 500px;
+}
+.class-one{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: red;
+}
+.class-two{
+    width: 200px;
+    height: 100px;
+    border-radius: 100px 100px 0 0 ;
+    background-color: green;
+}
